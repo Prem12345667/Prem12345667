@@ -88,8 +88,8 @@ Let’s build the future with AI 🚀
 # 📫 Connect With Me
 
 📧 Email: premgaurav2006@gmail.com
-🔗 LinkedIn: [https://www.linkedin.com/in/premgauravsahoo  ](https://www.linkedin.com/in/prem-gaurav-sahoo-450b4127b/)
-🐙 GitHub: [https://github.com/premgauravsahoo](https://github.com/Prem12345667/Prem12345667/edit/main/README.md)  
+🔗 LinkedIn: https://www.linkedin.com/in/prem-gaurav-sahoo-450b4127b
+🐙 GitHub: https://github.com/Prem12345667
 
 ---
 
