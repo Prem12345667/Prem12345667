@@ -85,7 +85,6 @@ Let’s build the future with AI 🚀
 
 ---
 
-# 📫 Connect With Me
 
 ## 📫 Connect With Me
 
@@ -101,11 +100,10 @@ Let’s build the future with AI 🚀
   </a>
 
   <!-- Email -->
-  <a href=premgaurav2006@gmail.com>
+  <a href="mailto:premgaurav2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
 ---
 
 # 🌟 Vision
