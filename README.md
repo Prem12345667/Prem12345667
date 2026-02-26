@@ -87,9 +87,24 @@ Let’s build the future with AI 🚀
 
 # 📫 Connect With Me
 
-📧 Email: premgaurav2006@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/prem-gaurav-sahoo-450b4127b
-🐙 GitHub: https://github.com/Prem12345667
+## 📫 Connect With Me
+
+<p align="left">
+  <!-- GitHub -->
+  <a href="https://github.com/Prem12345667">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/prem-gaurav-sahoo-450b4127b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Email -->
+  <a href="premgaurav2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
