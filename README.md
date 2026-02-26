@@ -1,16 +1,102 @@
-## Hi there 👋
+# 👋 Hi, I'm Prem Gaurav Sahoo
 
-<!--
-**Prem12345667/Prem12345667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Machine Learning | Deep Learning | Generative AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building Intelligent Systems • Exploring Generative AI • Turning Data into Innovation
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+I am a passionate AI developer focused on **Machine Learning, Deep Learning, and Generative AI**.  
+I love building real-world AI applications that combine performance, usability, and innovation.
+
+- 🧠 ML & Deep Learning Explorer  
+- 🤖 Generative AI Builder  
+- 📊 Data-Driven Problem Solver  
+- 🚀 Future AI Engineer in the Making  
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 My Tech Stack & Tools I Love
+
+<p align="center">
+  <!-- Python & Core Libraries -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="50" /> <!-- Official logo available from sources like IconDuck, Tech Logos Explorer, etc. :contentReference[oaicite:0]{index=0} -->
+
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Seaborn-4B6080?style=for-the-badge&logo=seaborn&logoColor=white" height="50" />
+
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge&logo=unsloth&logoColor=white" height="50" />
+
+  <!-- Deployment & Platforms -->
+  <img src="https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" height="50" />
+
+</p>
+
+
+# 🔥 What I Build
+
+- 🧠 ML Prediction Systems  
+- 🤖 Deep Learning Neural Networks  
+- 🎨 Generative AI Applications  
+- 🖥️ Interactive AI Tools with Gradio  
+- 📊 End-to-End ML Pipelines  
+
+Every project reflects:
+✔ Clean & Scalable Code  
+✔ Performance Optimization  
+✔ Real-World Practical Impact  
+
+---
+
+# 📈 Currently Exploring
+
+- Advanced Deep Learning Architectures  
+- LLM Optimization  
+- AI System Design  
+- Production-Level ML Engineering  
+
+---
+
+# 🤝 Open to Opportunities
+
+I’m actively looking for:
+
+- AI/ML Internship Roles  
+- Research Collaborations  
+- Hackathons  
+- Open Source Projects  
+
+Let’s build the future with AI 🚀
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: premgaurav2006@gmail.com
+🔗 LinkedIn: [https://www.linkedin.com/in/premgauravsahoo  ](https://www.linkedin.com/in/prem-gaurav-sahoo-450b4127b/)
+🐙 GitHub: [https://github.com/premgauravsahoo](https://github.com/Prem12345667/Prem12345667/edit/main/README.md)  
+
+---
+
+# 🌟 Vision
+
+> “Learn. Build. Fail. Improve. Repeat”
+
+---
+
+⭐ If you like my work, consider starring my repositories!
